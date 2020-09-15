@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://www.hackyourfuture.dk/static/logo-dark.svg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Meal sharing</h3>
+<h3 align="center">Concerts app</h3>
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 ---
 
-<p align="center"> Website for sharing meals together. Invite your best friends or your family for dinner!
+<p align="center"> Website for creating concerts!
     <br> 
 </p>
 
